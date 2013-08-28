@@ -1,3 +1,4 @@
+-- Hirrerarchy sql from prodcodes
 WITH RPL (LEVEL, ASG_ID, PARENT_ASG_ID, NAME) 
      AS (SELECT 1, 
                 ASG_ID, PARENT_ASG_ID,
