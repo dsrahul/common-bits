@@ -41,3 +41,16 @@ WHERE  A.id = D.del_ex_serv_id
        AND G.start_date <= CURRENT_DATE 
        AND ( G.end_date >= CURRENT_DATE ) 
 WITH UR 
+
+
+-- Service charges
+SELECT chg_id, 
+       del_ex_serv_id, 
+       branch_num, 
+       charge"  + " 
+FROM   tdeschg 
+WHERE  del_ex_serv_id IN ( 'L3vF2P/y' ) 
+       AND branch_num IN ( 12 ) 
+ORDER  BY del_ex_serv_id asc, 
+          branch_num asc 
+WITH UR 
