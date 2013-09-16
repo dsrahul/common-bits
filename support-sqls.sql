@@ -58,5 +58,17 @@ WITH UR
 -- SERVICE GROUPS
 SELECT GRP_ID, NAME, THIRD_PARTY_CODE, EXCATCHMENT_CODE, GREEN_VAN_CODE, PICKUP_FLAG FROM TDESGRP ORDER BY GRP_ID WITH UR
 
+--- RESOURCE AND CAPABILITY
 
+SELECT A.cap_id     AS capabilityId, 
+       A.short_code AS shortCode, 
+       B.rsrc_id    AS resourceId 
+FROM   tcapbty A, 
+       trscass B 
+WHERE  B.rsrc_id IN (SELECT rsrc_id 
+                     FROM   tresrce 
+                     WHERE  del_centre IN ( 35 ) 
+                     ) 
+       AND A.cap_id = B.cap_id 
+WITH UR 
 
