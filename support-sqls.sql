@@ -47,7 +47,7 @@ WITH UR
 SELECT chg_id, 
        del_ex_serv_id, 
        branch_num, 
-       charge"  + " 
+       charge 
 FROM   tdeschg 
 WHERE  del_ex_serv_id IN ( 'L3vF2P/y' ) 
        AND branch_num IN ( 12 ) 
