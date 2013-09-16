@@ -72,3 +72,13 @@ WHERE  B.rsrc_id IN (SELECT rsrc_id
        AND A.cap_id = B.cap_id 
 WITH UR 
 
+--- DEL CENTRES with PARTICULAR RESOURCE
+SELECT * 
+FROM   tresrce 
+WHERE  rsrc_id IN (SELECT DISTINCT B.rsrc_id AS resourceId 
+                   FROM   tcapbty A, 
+                          trscass B 
+                   WHERE  A.short_code = 'COR') 
+ORDER  BY 2 
+WITH UR 
+
