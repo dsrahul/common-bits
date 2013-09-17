@@ -62,14 +62,15 @@ SELECT GRP_ID, NAME, THIRD_PARTY_CODE, EXCATCHMENT_CODE, GREEN_VAN_CODE, PICKUP_
 
 SELECT A.cap_id     AS capabilityId, 
        A.short_code AS shortCode, 
-       B.rsrc_id    AS resourceId 
+       C.rsrc_id    AS resourceId , c.del_centre
 FROM   tcapbty A, 
-       trscass B 
-WHERE  B.rsrc_id IN (SELECT rsrc_id 
-                     FROM   tresrce 
-                     WHERE  del_centre IN ( 35 ) 
-                     ) 
+       trscass B ,
+       tresrce C
+WHERE  B.rsrc_id = c.rsrc_id 
+       and c.del_centre IN ( 3822, 3821, 31 ) 
        AND A.cap_id = B.cap_id 
+       AND a.short_code in ('DEL', 'DELHIT', 'DELWET') 
+order by 4 asc, 3 asc , 2 asc
 WITH UR 
 
 --- DEL CENTRES with PARTICULAR CAPABILITY
