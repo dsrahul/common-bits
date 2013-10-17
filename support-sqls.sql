@@ -83,3 +83,17 @@ WHERE  A.short_code = 'COR'
        AND b.rsrc_id = c.rsrc_id 
 WITH UR 
 
+---- Find route information for deliveries on a particular order
+SELECT B.resource_key, 
+       B.route_num, 
+       A.delivery_id, 
+       C.del_date 
+FROM   scds.tdrops0 A, 
+       scds.troutes B, 
+       scds.tdelvry C 
+WHERE  A.delivery_id IN (SELECT delivery_id 
+                         FROM   scds.tdelgoo 
+                         WHERE  order_id = 'HHTTRN01') 
+       AND A.route_uid = B.route_uid 
+       AND A.delivery_id = C.delivery_id 
+WITH UR 
