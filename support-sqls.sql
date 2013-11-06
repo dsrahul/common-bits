@@ -73,6 +73,17 @@ WHERE  B.rsrc_id = c.rsrc_id
 order by 4 asc, 3 asc , 2 asc
 WITH UR 
 
+SELECT A.cap_id     AS capabilityId, 
+       A.short_code AS shortCode, 
+       B.rsrc_id    AS resourceId 
+FROM   tcapbty A, 
+       trscass B, 
+       tresrce c 
+WHERE  c.del_centre = 43 
+       AND B.rsrc_id = c.rsrc_id 
+       AND A.cap_id = B.cap_id order by RESOURCEID
+WITH UR 
+
 --- DEL CENTRES with PARTICULAR CAPABILITY
 SELECT * 
 FROM   tcapbty A, 
