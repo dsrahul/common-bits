@@ -108,3 +108,15 @@ WHERE  A.delivery_id IN (SELECT delivery_id
        AND A.route_uid = B.route_uid 
        AND A.delivery_id = C.delivery_id 
 WITH UR 
+
+
+SELECT a.locadd_uid, 
+       a.location_uid, 
+       a.bus_unit_id, 
+       b.* 
+FROM   tactpt0 a, 
+       tlocat0 b 
+WHERE  a.busact_num = 34 
+       AND a.bus_unit_id IN ( 518, 517, 84 ) 
+       AND a.locadd_uid = b.loc_address_uid 
+WITH UR 
