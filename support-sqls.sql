@@ -26,13 +26,13 @@ SELECT A.id,
        A.charge, 
        A.product_association, 
        A.time_to_deliver 
-FROM   tdeserv A, 
-       tdespts D, 
-       tdespar E, 
-       tdespro F, 
-       tdesass G 
+FROM   ldba.tdeserv A, 
+       ldba.tdespts D, 
+       ldba.tdespar E, 
+       ldba.tdespro F, 
+       ldba.tdesass G 
 WHERE  A.id = D.del_ex_serv_id 
-       AND D.prod_type_id IN ( 'zJ5a6h+w' ) 
+       AND D.prod_type_id IN ( select PROD_TYPE_ASG_ID from ldba.VAXL_CDS_PROD where PROD_CODE = '88931214' ) 
        AND A.id = E.del_ex_serv_id 
        AND E.del_ex_serv_prov_id = F.provider_id 
        AND F.provider_type IN ( 'G' ) 
