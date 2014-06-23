@@ -43,6 +43,33 @@ WHERE  A.id = D.del_ex_serv_id
 WITH UR 
 
 
+SELECT distinct A.id, h.GREEN_VAN_CODE, G.start_date,G.end_date,
+       A.des_serv_grp_id, 
+       A.name, 
+       A.description, 
+       A.volume, 
+       A.charge, 
+       A.product_association, 
+       A.time_to_deliver 
+FROM   ldba.tdeserv A, 
+       ldba.tdespts D, 
+       ldba.tdespar E, 
+       ldba.tdespro F, 
+       ldba.tdesass G,
+       ldba.tdesgrp h 
+WHERE  A.id = D.del_ex_serv_id 
+        and a.DES_SERV_GRP_ID = h.GRP_ID
+        and h.GREEN_VAN_CODE in ('HIT', 'INT')
+       --AND D.prod_type_id IN ( select PROD_TYPE_ASG_ID from ldba.VAXL_CDS_PROD where PROD_CODE = '81701220' ) 
+       AND A.id = E.del_ex_serv_id 
+       AND E.del_ex_serv_prov_id = F.provider_id 
+       AND F.provider_type IN ( 'G' ) 
+       AND E.pair_id = G.del_ex_serv_pair_id 
+       AND G.branch_num IN ( 12 ) 
+       AND G.start_date <= CURRENT_DATE 
+       AND ( G.end_date >= CURRENT_DATE ) 
+WITH UR 
+
 -- Service charges
 SELECT chg_id, 
        del_ex_serv_id, 
