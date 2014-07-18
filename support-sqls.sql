@@ -1,3 +1,29 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP 1000       A.[LocationKey],B.[OrderKey]
+      ,A.[ShipZipcode], B.[PlannedArrivedDate],B.[PlannedDepartedDate],b.[PlannedTimeDriven],B.[RouteID], C.[ResourceKey]
+      , B.[StopNumber]
+	  ,A.[ModifiedBy]
+      ,A.[ModifyDate]
+      ,A.[CreatedBy]
+      ,A.[CreatedDate]
+      ,A.[Latitude]
+      ,A.[Longitude]
+      ,A.[GeocodeLatitude]
+      ,A.[GeocodeLongitude]
+      --,A.[GeocodeSource]
+      --,A.[GeocodeType]
+      --,A.[Type]
+  FROM [LNOSFW_JL].[dbo].[FWLocation] A, [LNOSFW_JL].[dbo].[FWStop] B , [LNOSFW_JL].[dbo].[FWRoute] C where 
+  --B.[OrderKey] like '34842623%' and 
+  C.[ResourceKey] like 'R31PM20131204T4%' and 
+  --A.geocodeflags = 'WRONGPOSTALCODE' and 
+  B.locationkey = A.locationkey and 
+  -- (a.LocationKey != a.GeocodeLatitude or a.Longitude != a.GeocodeLongitude) and 
+  --LEN(shipzipcode) < 6
+  B.[RouteID] = C.[RouteID] 
+  order by B.[StopNumber] asc
+
+
 -- Hirrerarchy sql from prodcodes
 WITH RPL (LEVEL, ASG_ID, PARENT_ASG_ID, NAME) 
      AS (SELECT 1, 
