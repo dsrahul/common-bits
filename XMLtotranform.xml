@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ns:JLPLoadingOrders xmlns:ns="http://www.kratzer-automation.com/cadisTRANSPORT/JLPLoadingOrders/1.0">
+<ns:BranchNumber>8733</ns:BranchNumber>
+<ns:FreightListNumber>01094713</ns:FreightListNumber>
+<ns:TourNumber>01094713</ns:TourNumber>
+<ns:PTDCDH>06:50:10</ns:PTDCDH>
+<ns:PTACDH>16:44:08</ns:PTACDH>
+<ns:RouteDescription>AM-V1</ns:RouteDescription>
+<ns:Shift>AM</ns:Shift>
+<ns:cTOrder>
+<ns:SequenceNumber>1</ns:SequenceNumber>
+<ns:PTADelivery>07:00:00</ns:PTADelivery>
+<ns:PTDDelivery>07:09:09</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40830632</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>17</ct:Name1>
+<ct:StreetAndNumber>Grove Way</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA9 6JS</ct:PostalCode>
+<ct:City>WEMBLEY</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.553563</ct:Latitude>
+<ct:Longitude>-0.270384</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>COL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>K18jaTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>COL 86560223 John Lewis JLFSWH2001 F/Freezer</ct:GoodsDescription>
+<ct:PackageIdentification>61788822301</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>L5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>2</ns:SequenceNumber>
+<ns:PTADelivery>07:24:10</ns:PTADelivery>
+<ns:PTDDelivery>07:30:42</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40800212</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>6</ct:Name1>
+<ct:StreetAndNumber>First Avenue</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA9 8QG</ct:PostalCode>
+<ct:City>Wembley</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.568260</ct:Latitude>
+<ct:Longitude>-0.300139</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>gfuBL5U0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>88935402 Samsung WF80F5E5U4X ecobubble Freestanding Washing Machine, 8kg Load, A+++ Energy Rating, 1</ct:GoodsDescription>
+<ct:PackageIdentification>61783438701</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>G5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>3</ns:SequenceNumber>
+<ns:PTADelivery>07:38:45</ns:PTADelivery>
+<ns:PTDDelivery>07:45:03</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40833964</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>18</ct:Name1>
+<ct:StreetAndNumber>Mountington Park Close</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA3 0NW</ct:PostalCode>
+<ct:City>HARROW</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.581760</ct:Latitude>
+<ct:Longitude>-0.303630</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>dA5bjXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>82082018 Jl Dante Dining Armchair Gry</ct:GoodsDescription>
+<ct:PackageIdentification>61789423001</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>U5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>4</ns:SequenceNumber>
+<ns:PTADelivery>07:52:22</ns:PTADelivery>
+<ns:PTDDelivery>08:01:38</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40755130</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>5</ct:Name1>
+<ct:StreetAndNumber>Gerard Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA1 2ND</ct:PostalCode>
+<ct:City>Harrow</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.581269</ct:Latitude>
+<ct:Longitude>-0.323990</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>9</ct:TotalNumberOfPackages>
+<ct:HandlingInstruction>
+<ct:Type>E</ct:Type>
+<ct:Code>0         </ct:Code>
+<ct:Text> -- Handling Instructions Included -- </ct:Text>
+</ct:HandlingInstruction>
+<ct:GoodsItem>
+<ct:GoodsItemID>XRHPSRU0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81600330 Connie Tall Wide Oak</ct:GoodsDescription>
+<ct:PackageIdentification>61774869801</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>gpGPSRU0</ct:GoodsItemID>
+<ct:NumberOfPackages>8</ct:NumberOfPackages>
+<ct:GoodsDescription>81610330 Connie Cd Tower Oak</ct:GoodsDescription>
+<ct:PackageIdentification>61774869701</ct:PackageIdentification>
+<ct:PackageIdentification>61774869702</ct:PackageIdentification>
+<ct:PackageIdentification>61774869703</ct:PackageIdentification>
+<ct:PackageIdentification>61774869704</ct:PackageIdentification>
+<ct:PackageIdentification>61774869705</ct:PackageIdentification>
+<ct:PackageIdentification>61774869706</ct:PackageIdentification>
+<ct:PackageIdentification>61774869707</ct:PackageIdentification>
+<ct:PackageIdentification>61774869708</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>B5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>5</ns:SequenceNumber>
+<ns:PTADelivery>08:13:17</ns:PTADelivery>
+<ns:PTDDelivery>08:41:55</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40824518</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>3</ct:Name1>
+<ct:StreetAndNumber>Gordon Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA3 5RY</ct:PostalCode>
+<ct:City>HARROW</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Ms TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.595137</ct:Latitude>
+<ct:Longitude>-0.337154</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>J+nP/NV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81711202 BOSCH SPS40E22GB SLIM D/WASH</ct:GoodsDescription>
+<ct:PackageIdentification>61787827301</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>/moP/NV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Dishwasher Disposal</ct:GoodsDescription>
+<ct:PackageIdentification>/moP/NV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>R2oP/NV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Dishwasher Connection</ct:GoodsDescription>
+<ct:PackageIdentification>R2oP/NV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Ms TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>J5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>6</ns:SequenceNumber>
+<ns:PTADelivery>08:50:59</ns:PTADelivery>
+<ns:PTDDelivery>09:16:33</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40831038</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>73</ct:Name1>
+<ct:StreetAndNumber>College Hill Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA3 7BT</ct:PostalCode>
+<ct:City>Harrow</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Ms TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.604950</ct:Latitude>
+<ct:Longitude>-0.334640</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>Ru+uyTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>88931616 Siemens iQ700 WMH4Y890GB Freestanding Washing Machine with i-DOS and Home Connect, 9kg Load</ct:GoodsDescription>
+<ct:PackageIdentification>61788880001</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>+b/uyTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Free Washer Disposal</ct:GoodsDescription>
+<ct:PackageIdentification>+b/uyTV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>p5/uyTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Washer Connection</ct:GoodsDescription>
+<ct:PackageIdentification>p5/uyTV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Ms TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>O5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>7</ns:SequenceNumber>
+<ns:PTADelivery>09:32:14</ns:PTADelivery>
+<ns:PTDDelivery>10:42:29</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>true</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40830311</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>34</ct:Name1>
+<ct:StreetAndNumber>Howberry Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA8 6ST</ct:PostalCode>
+<ct:City>Edgware</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.609339</ct:Latitude>
+<ct:Longitude>-0.297193</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>qWZhQTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>88930214 John Lewis JLWM1413 Freestanding Washing Machine, 8kg Load, A+++ Energy Rating, 1400rpm Spi</ct:GoodsDescription>
+<ct:PackageIdentification>61788777901</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>0kZhQTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Washer Connection</ct:GoodsDescription>
+<ct:PackageIdentification>0kZhQTV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>JBahQTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Washer Disposal</ct:GoodsDescription>
+<ct:PackageIdentification>JBahQTV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>K5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>8</ns:SequenceNumber>
+<ns:PTADelivery>10:46:29</ns:PTADelivery>
+<ns:PTDDelivery>10:55:32</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40830788</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>21</ct:Name1>
+<ct:StreetAndNumber>Howberry Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA8 6SS</ct:PostalCode>
+<ct:City>Edgware</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.609193</ct:Latitude>
+<ct:Longitude>-0.297675</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>sQ7FhTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>3</ct:NumberOfPackages>
+<ct:GoodsDescription>83671802 John Lewis Simone Leather Bar Chair, Grey</ct:GoodsDescription>
+<ct:PackageIdentification>61788843001</ct:PackageIdentification>
+<ct:PackageIdentification>61788843002</ct:PackageIdentification>
+<ct:PackageIdentification>61788843003</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>N5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>9</ns:SequenceNumber>
+<ns:PTADelivery>11:02:55</ns:PTADelivery>
+<ns:PTDDelivery>11:07:31</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40833658</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>19</ct:Name1>
+<ct:StreetAndNumber>Camborne Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA8 8FD</ct:PostalCode>
+<ct:City>Edgware</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.614628</ct:Latitude>
+<ct:Longitude>-0.277436</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>pMRCdXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81621501 John Lewis Gravity Desk, Walnut</ct:GoodsDescription>
+<ct:PackageIdentification>61789381301</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>T5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>10</ns:SequenceNumber>
+<ns:PTADelivery>11:12:28</ns:PTADelivery>
+<ns:PTDDelivery>11:17:23</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40832788</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>1</ct:Name1>
+<ct:StreetAndNumber>The Grove</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>HA8 9QA</ct:PostalCode>
+<ct:City>EDGWARE</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.619863</ct:Latitude>
+<ct:Longitude>-0.270956</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>2</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>Fc0iKXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>COL 86696245 Panasonic NN-SD271S Microwave</ct:GoodsDescription>
+<ct:PackageIdentification>61789262101</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>nL0iKXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>86696245 Panasonic NN-SD271S Microwave</ct:GoodsDescription>
+<ct:PackageIdentification>61789262001</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>R5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>11</ns:SequenceNumber>
+<ns:PTADelivery>11:29:29</ns:PTADelivery>
+<ns:PTDDelivery>11:35:26</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40832557</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>32</ct:Name1>
+<ct:StreetAndNumber>Sunny Hill</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>NW4 4LL</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>MR TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.593740</ct:Latitude>
+<ct:Longitude>-0.230959</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>2CzHEXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>86521902 Indesit TLAA10S Larder Fridge, A+ Energy Rating, 55cm Wide, Silver</ct:GoodsDescription>
+<ct:PackageIdentification>61789229401</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>MR TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>Q5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>12</ns:SequenceNumber>
+<ns:PTADelivery>11:46:03</ns:PTADelivery>
+<ns:PTDDelivery>12:15:39</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40832968</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>3</ct:Name1>
+<ct:StreetAndNumber>Orchard Avenue</ct:StreetAndNumber>
+<ct:Street2>Finchley Church End</ct:Street2>
+<ct:PostalCode>N3 3NL</ct:PostalCode>
+<ct:City>LONDON</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.593347</ct:Latitude>
+<ct:Longitude>-0.195227</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>53oSOXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81702915 Miele G4203sc D/washer</ct:GoodsDescription>
+<ct:PackageIdentification>61789285101</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>8LpSOXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Dishwasher Disposal</ct:GoodsDescription>
+<ct:PackageIdentification>8LpSOXV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>hlpSOXV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Dishwasher Connection</ct:GoodsDescription>
+<ct:PackageIdentification>hlpSOXV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>S5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>13</ns:SequenceNumber>
+<ns:PTADelivery>12:21:52</ns:PTADelivery>
+<ns:PTDDelivery>12:27:41</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40839323</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>13</ct:Name1>
+<ct:StreetAndNumber>Asmuns Hill</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>NW11 6ES</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>MRS TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.583840</ct:Latitude>
+<ct:Longitude>-0.196760</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>xNtmbcV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>89030211 John Lewis JLBIOS616 Single Oven, Stainless Steel</ct:GoodsDescription>
+<ct:PackageIdentification>61790505301</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>MRS TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>V5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>14</ns:SequenceNumber>
+<ns:PTADelivery>12:31:41</ns:PTADelivery>
+<ns:PTDDelivery>12:37:00</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40777426</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>17</ct:Name1>
+<ct:StreetAndNumber>Northway</ct:StreetAndNumber>
+<ct:Street2>Golders Green</ct:Street2>
+<ct:PostalCode>NW11 6PB</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.582433</ct:Latitude>
+<ct:Longitude>-0.187808</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>11:00:00</ct:from>
+<ct:to>13:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>J9U91kU0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>83642704 MASTER CHAIR WHITE</ct:GoodsDescription>
+<ct:PackageIdentification>61779265701</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>C5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>15</ns:SequenceNumber>
+<ns:PTADelivery>12:41:00</ns:PTADelivery>
+<ns:PTDDelivery>12:45:52</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40721535</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>3</ct:Name1>
+<ct:StreetAndNumber>Hutchings Walk</ct:StreetAndNumber>
+<ct:Street2>Golders Green</ct:Street2>
+<ct:PostalCode>NW11 6LT</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.587100</ct:Latitude>
+<ct:Longitude>-0.184360</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>4N1EJzT0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>32461008 Jl Premium Foam Crib 89x38</ct:GoodsDescription>
+<ct:PackageIdentification>61768784901</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>M70EJzT0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>31531106 Yoyo+    Black /taupe</ct:GoodsDescription>
+<ct:PackageIdentification>61768784701</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>wB1EJzT0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>32430184 Anna Swinging Crib White</ct:GoodsDescription>
+<ct:PackageIdentification>61768784801</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>A5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>16</ns:SequenceNumber>
+<ns:PTADelivery>12:51:59</ns:PTADelivery>
+<ns:PTDDelivery>13:14:06</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40816519</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>510a</ct:Name1>
+<ct:StreetAndNumber>Archway Road</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>N6 4NA</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.581660</ct:Latitude>
+<ct:Longitude>-0.155850</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>2</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>uPxCFIV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>88932604 Beko WM7023W Slim Depth Freestanding Washing Machine, 7kg Load, A+++ Energy Rating, 1200rpm</ct:GoodsDescription>
+<ct:PackageIdentification>61786510001</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>KfxCFIV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Washer Connection</ct:GoodsDescription>
+<ct:PackageIdentification>KfxCFIV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>I5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>17</ns:SequenceNumber>
+<ns:PTADelivery>13:18:06</ns:PTADelivery>
+<ns:PTDDelivery>13:24:36</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40786891</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>52</ct:Name1>
+<ct:StreetAndNumber>Cromwell Avenue</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>N6 5HL</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.572359</ct:Latitude>
+<ct:Longitude>-0.141750</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>3</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>giyiNrU0</ct:GoodsItemID>
+<ct:NumberOfPackages>3</ct:NumberOfPackages>
+<ct:GoodsDescription>82000605 John Lewis Ala Mesh Extending Table &amp; Chairs Dining Set</ct:GoodsDescription>
+<ct:PackageIdentification>61780809801</ct:PackageIdentification>
+<ct:PackageIdentification>61780809802</ct:PackageIdentification>
+<ct:PackageIdentification>61780809803</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>E5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>18</ns:SequenceNumber>
+<ns:PTADelivery>13:18:06</ns:PTADelivery>
+<ns:PTDDelivery>13:29:29</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40786684</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>52</ct:Name1>
+<ct:StreetAndNumber>Cromwell Avenue</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>N6 5HL</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Mrs TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.572359</ct:Latitude>
+<ct:Longitude>-0.141750</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:HandlingInstruction>
+<ct:Type>E</ct:Type>
+<ct:Code>0         </ct:Code>
+<ct:Text> -- Handling Instructions Included -- </ct:Text>
+</ct:HandlingInstruction>
+<ct:GoodsItem>
+<ct:GoodsItemID>fdJoIrU0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81628901 Vitra Eames Desk Unit, Multi</ct:GoodsDescription>
+<ct:PackageIdentification>61780779801</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Mrs TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>D5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>19</ns:SequenceNumber>
+<ns:PTADelivery>13:33:29</ns:PTADelivery>
+<ns:PTDDelivery>13:40:21</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40831848</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>5</ct:Name1>
+<ct:StreetAndNumber>Cholmeley Crescent</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>N6 5EZ</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Dr TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.572210</ct:Latitude>
+<ct:Longitude>-0.145020</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>8EMTvUV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>88932901 Miele WKB120 Freestanding Washing Machine, 8kg Load, A+++ Energy Rating, 1600rpm Spin, Whit</ct:GoodsDescription>
+<ct:PackageIdentification>61788967301</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Dr TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>P5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>20</ns:SequenceNumber>
+<ns:PTADelivery>13:45:28</ns:PTADelivery>
+<ns:PTDDelivery>13:57:28</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40809033</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>31</ct:Name1>
+<ct:StreetAndNumber>Kingsley Place</ct:StreetAndNumber>
+<ct:Street2>Highgate</ct:Street2>
+<ct:PostalCode>N6 5EA</ct:PostalCode>
+<ct:City>LONDON</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Ms TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.572999</ct:Latitude>
+<ct:Longitude>-0.147500</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>07:00:00</ct:from>
+<ct:to>14:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>1</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>+tFXn/U0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>81025732 Sb 6000 Linen Matt 120</ct:GoodsDescription>
+<ct:PackageIdentification>61784964201</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Ms TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>H5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>21</ns:SequenceNumber>
+<ns:PTADelivery>14:02:13</ns:PTADelivery>
+<ns:PTDDelivery>14:09:07</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40799086</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>Flat 5, Brookfield, 0</ct:Name1>
+<ct:StreetAndNumber>Highgate West Hill</ct:StreetAndNumber>
+<ct:Street2> </ct:Street2>
+<ct:PostalCode>N6 6AS</ct:PostalCode>
+<ct:City>London</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>TForename TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.561769</ct:Latitude>
+<ct:Longitude>-0.151459</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>14:00:00</ct:from>
+<ct:to>21:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>2</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>0nmHt4U0</ct:GoodsItemID>
+<ct:NumberOfPackages>2</ct:NumberOfPackages>
+<ct:GoodsDescription>82001321 John Lewis Maya 4-Seater Outdoor Dining Set, Smoke</ct:GoodsDescription>
+<ct:PackageIdentification>61783277501</ct:PackageIdentification>
+<ct:PackageIdentification>61783277502</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>TForename TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>F5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>22</ns:SequenceNumber>
+<ns:PTADelivery>14:13:46</ns:PTADelivery>
+<ns:PTDDelivery>14:29:19</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40830745</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>8</ct:Name1>
+<ct:StreetAndNumber>Rona Road</ct:StreetAndNumber>
+<ct:Street2>Hampstead</ct:Street2>
+<ct:PostalCode>NW3 2JA</ct:PostalCode>
+<ct:City>LONDON</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Ms TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.554877</ct:Latitude>
+<ct:Longitude>-0.153590</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>14:00:00</ct:from>
+<ct:to>21:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>2</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>vdLsfTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>87022903 Milford Med Slv Bprn B Ll</ct:GoodsDescription>
+<ct:PackageIdentification>61788838201</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>h8LsfTV0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Sofa Assembly</ct:GoodsDescription>
+<ct:PackageIdentification>h8LsfTV0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Ms TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>M5GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+<ns:cTOrder>
+<ns:SequenceNumber>23</ns:SequenceNumber>
+<ns:PTADelivery>14:49:16</ns:PTADelivery>
+<ns:PTDDelivery>16:28:18</ns:PTDDelivery>
+<ns:PhoneNumber1>2012345678</ns:PhoneNumber1>
+<ns:BreakIncluded>false</ns:BreakIncluded>
+<ct:cTOrderdata xmlns:ct="http://www.kratzer-automation.com/cadisTRANSPORT/cTOrderdata/1.11">
+<ct:OrderId>40500966</ct:OrderId>
+<ct:Consignee>
+<ct:Address>
+<ct:Name1>92</ct:Name1>
+<ct:StreetAndNumber>Harvist Road</ct:StreetAndNumber>
+<ct:Street2>Kilburn</ct:Street2>
+<ct:PostalCode>NW6 6HL</ct:PostalCode>
+<ct:City>LONDON</ct:City>
+<ct:CountryCode>GB</ct:CountryCode>
+<ct:ContactPerson>Ms TSurname</ct:ContactPerson>
+<ct:PhoneNumber>2012345678</ct:PhoneNumber>
+<ct:Location>
+<ct:Latitude>51.532930</ct:Latitude>
+<ct:Longitude>-0.214690</ct:Longitude>
+</ct:Location>
+</ct:Address>
+</ct:Consignee>
+<ct:DeliveryDate>2016-09-19</ct:DeliveryDate>
+<ct:DeliveryTime>
+<ct:from>14:00:00</ct:from>
+<ct:to>21:00:00</ct:to>
+</ct:DeliveryTime>
+<ct:Priority>0</ct:Priority>
+<ct:Product>
+<ct:ProductCode>DEL</ct:ProductCode>
+</ct:Product>
+<ct:TotalNumberOfPackages>2</ct:TotalNumberOfPackages>
+<ct:GoodsItem>
+<ct:GoodsItemID>/h8rRqQ0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>89825014 Avf Jzl204 Brcket 26-39 install only</ct:GoodsDescription>
+<ct:PackageIdentification>61726686501</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:GoodsItem>
+<ct:GoodsItemID>cz8rRqQ0</ct:GoodsItemID>
+<ct:NumberOfPackages>1</ct:NumberOfPackages>
+<ct:GoodsDescription>Wall Mount TV Installation</ct:GoodsDescription>
+<ct:PackageIdentification>cz8rRqQ0-S01</ct:PackageIdentification>
+</ct:GoodsItem>
+<ct:Signor>
+<ct:Name>Ms TSurname</ct:Name>
+</ct:Signor>
+<ct:StopId>/4GyQrV0</ct:StopId>
+</ct:cTOrderdata>
+</ns:cTOrder>
+</ns:JLPLoadingOrders>
